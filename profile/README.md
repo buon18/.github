@@ -1,23 +1,23 @@
-<h1 style="text-align: center">
+<h1 style="text-align: center" align="center">
     Metaphorlism
 </h1>
 
-<div style="display: grid; place-items: center;">
-    <img src="https://hackmd.io/_uploads/By2xzKhPn.jpg" style="width: 128px; height: 128px; border-radius: 100%;"></img>
+<div style="display: grid; place-items: center; border-radius: 100%; overflow: hidden;" align="center">
+    <img src="https://github.com/metaphorlism/.github/assets/46731773/f2c52aa8-c01e-49ae-a9b5-1a32ceb1ecac" style="width: 128px; height: 128px; border-radius: 100%;"></img>
 </div>
 
 <div style="text-align: center; width: 80%; margin: 0 auto;">
-  <img src="https://img.shields.io/badge/docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85">
-  <img src="https://img.shields.io/badge/reactjs-%23fff.svg?style=for-the-badge&logo=react&logoColor=#05a6d2" width=100">
-  <img src="https://img.shields.io/badge/typescript-%23fff.svg?style=for-the-badge&logo=typescript&logoColor=007ACC" width="120">
-  <img src="https://img.shields.io/badge/javascript-%23fff.svg?style=for-the-badge&logo=javascript&logoColor="f0db4f" width="110">
-  <img src="https://img.shields.io/badge/tailwindcss-%23FFF.svg?style=for-the-badge&logo=tailwindcss&logoColor=#0dafd2" width="120">
-  <img src="https://img.shields.io/badge/firebase-%23FFF.svg?style=for-the-badge&logo=firebase&logoColor=#0dafd2" width="100">
-  <img src="https://img.shields.io/badge/springboot-%23FFF.svg?style=for-the-badge&logo=springboot&logoColor=#0dafd2" width="120">
-  <img src="https://img.shields.io/badge/python-%23FFF.svg?style=for-the-badge&logo=python&logoColor=#0dafd2" width="100">
-  <img src="https://img.shields.io/badge/npm-%23FFF.svg?style=for-the-badge&logo=npm&logoColor=#0dafd2" width="65">
-  <img src="https://img.shields.io/badge/jenkins-%23FFF.svg?style=for-the-badge&logo=jenkins&logoColor=#0dafd2" width="90">
-  <img src="https://img.shields.io/badge/kubernetes-%23FFF.svg?style=for-the-badge&logo=kubernetes&logoColor=#0dafd2" width="120">
+  <img src="https://img.shields.io/badge/docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/reactjs-%23fff.svg?style=for-the-badge&logo=react&logoColor=#05a6d2" height="30">
+  <img src="https://img.shields.io/badge/typescript-%23fff.svg?style=for-the-badge&logo=typescript&logoColor=007ACC" height="30">
+  <img src="https://img.shields.io/badge/javascript-%23fff.svg?style=for-the-badge&logo=javascript&logoColor="f0db4f" height="30">
+  <img src="https://img.shields.io/badge/tailwindcss-%23FFF.svg?style=for-the-badge&logo=tailwindcss&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/firebase-%23FFF.svg?style=for-the-badge&logo=firebase&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/springboot-%23FFF.svg?style=for-the-badge&logo=springboot&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/python-%23FFF.svg?style=for-the-badge&logo=python&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/npm-%23FFF.svg?style=for-the-badge&logo=npm&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/jenkins-%23FFF.svg?style=for-the-badge&logo=jenkins&logoColor=#0dafd2" height="30">
+  <img src="https://img.shields.io/badge/kubernetes-%23FFF.svg?style=for-the-badge&logo=kubernetes&logoColor=#0dafd2" height="30">
 </div>
 
 
