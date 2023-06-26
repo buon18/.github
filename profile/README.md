@@ -3,7 +3,7 @@
 </h1>
 
 <div style="display: grid; place-items: center; border-radius: 100%; overflow: hidden;" align="center">
-    <img src="https://github.com/metaphorlism/.github/assets/46731773/f2c52aa8-c01e-49ae-a9b5-1a32ceb1ecac" style="width: 128px; height: 128px; border-radius: 100%;"></img>
+    <img src="https://github.com/metaphorlism/.github/assets/46731773/f2c52aa8-c01e-49ae-a9b5-1a32ceb1ecac" style="width: 128px; height: 128px; border-radius: 100%;" />
 </div>
 
 <div style="text-align: center; width: 80%; margin: 0 auto;">
