@@ -3,11 +3,12 @@
 </h1>
 
 <div style="display: grid; place-items: center; border-radius: 100%; overflow: hidden;" align="center">
-    <img src="https://github.com/metaphorlism/.github/assets/46731773/f2c52aa8-c01e-49ae-a9b5-1a32ceb1ecac" style="width: 128px; height: 128px; border-radius: 100%;" />
+    <img src="https://github.com/metaphorlism/.github/assets/46731773/414ff703-9dc7-4133-9fb2-c3196de69413" style="width: 128px; height: 128px; border-radius: 100%;" />
 </div>
 
 <div style="text-align: center; width: 80%; margin: 0 auto;">
   <img src="https://img.shields.io/badge/docker-%232496ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30">
+
   <img src="https://img.shields.io/badge/reactjs-%23fff.svg?style=for-the-badge&logo=react&logoColor=#05a6d2" height="30">
   <img src="https://img.shields.io/badge/typescript-%23fff.svg?style=for-the-badge&logo=typescript&logoColor=007ACC" height="30">
   <img src="https://img.shields.io/badge/javascript-%23fff.svg?style=for-the-badge&logo=javascript&logoColor="f0db4f" height="30">
