@@ -1,5 +1,5 @@
 <h1 style="text-align: center" align="center">
-    Metaphorlism
+    Buon18
 </h1>
 
 <div style="display: grid; place-items: center; border-radius: 100%; overflow: hidden;" align="center">
@@ -23,7 +23,7 @@
 
 
 ## Introduction
-Metaphorlism offers weekly fresh content to help individuals learn new technologies and enhance their abilities. However, it's important to note that the information provided may not be entirely accurate, so caution is advised when using it. **Corrections and feedback can be submitted via email or social media**.
+Buon18 offers weekly fresh content to help individuals learn new technologies and enhance their abilities. However, it's important to note that the information provided may not be entirely accurate, so caution is advised when using it. **Corrections and feedback can be submitted via email or social media**.
 
 ## Content
 
